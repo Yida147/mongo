@@ -1,5 +1,5 @@
 
-sudo mkdir -p /usr/local/mongodb/conf
+
 sudo mkdir -p /usr/local/mongodb/mongos/log
 sudo mkdir -p /usr/local/mongodb/config/data
 sudo mkdir -p /usr/local/mongodb/config/log
